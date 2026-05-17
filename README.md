@@ -1,6 +1,6 @@
 # AniFlix API
 
-Base URL: `http://localhost:2000`
+Base URL: `http://aniflix.n1yhi.dev`
 
 ---
 
