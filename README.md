@@ -1,6 +1,6 @@
 # AniFlix API
 
- ## Base URL: `https://aniflix.n1yhi.dev`
+ ## Base URL: `[https://aniflix.n1yshi.dev`
 
 ---
 
