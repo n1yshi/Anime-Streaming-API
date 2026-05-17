@@ -133,8 +133,3 @@ Feed the returned `url` (m3u8) into any HLS player.
 | 503 | Service unavailable |
 
 ---
-
-## 🚀 Quick Start
-```bash
-npm install && npm run build && npm run start:dev
-```
